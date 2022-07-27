@@ -7,7 +7,7 @@ int main(void)
 
     FILE *arq;
 
-    arq = fopen("Nomes.txt","w");
+    arq = fopen("nomes.txt","w");
 
     if ( arq )
     {
